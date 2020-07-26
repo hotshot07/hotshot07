@@ -6,7 +6,7 @@ Free book recommendation to whoever guesses what my favourite programming langua
 
 *** 
 
-I spent the last couple of months making it easy for people to learn to sort lists ahahaha, basically made Algovis, a pyhton library for visualizing and analyzing algorithms. It has a very easy to use interface and you can get started in just 5 lines of code :)
+I spent the last couple of months making it easy for people to learn to sort lists ahahaha, basically made Algovis, a python library for visualizing and analyzing algorithms. It has a very easy to use interface and you can get started in just 5 lines of code :)
 
 ```python
 from algovis import sorting
