@@ -1,8 +1,6 @@
 Hi! I'm Mayank Arora *(hotshot07)* 
 
-I'm a programmer and a tennis player, will be starting my 4th year of computer engineering at Trinity College, Dublin this September.
-
-Free book recommendation to whoever guesses what my favourite programming language is :D
+I'm a programmer and a tennis player, will be starting my 4th year of Computer Engineering at Trinity College, Dublin this September.
 
 *** 
 
