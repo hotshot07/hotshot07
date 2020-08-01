@@ -6,12 +6,13 @@ Free book recommendation to whoever guesses what my favourite programming langua
 
 *** 
 
-I spent the last couple of months making it easy for people to learn to sort lists ahahaha, basically made Algovis, a python library for visualizing and analyzing algorithms. It has a very easy to use API and you can get started in just 5 lines of code :)
+I spent the last couple of months making it easy for people to learn to sort lists ahahaha, basically made Algovis, a python library for visualizing and analyzing algorithms. It has a very easy to use API and you can get started in just 6 lines of code :)
 
 ```python
 from algovis import sorting
 import random
-my_list = [random.randint(0,100) for i in range(50)]
+my_list = [i+1 for i in range(1000)]
+random.shuffle(my_list)
 bs_object = sorting.BubbleSort(my_list)
 bs_object.visualize(reverse = True, interval = 50)
 ```
