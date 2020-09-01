@@ -1,10 +1,11 @@
 Hi! I'm Mayank Arora *(hotshot07)* 
 
-I'm a programmer and a tennis player, will be starting my 4th year of Computer Engineering at Trinity College, Dublin this September.
+I'm a 4th year Computer Engineering student at Trinity College, Dublin.
+You can find more about me [here](https://mackweb.in).
 
 *** 
 
-I spent the last couple of months making it easy for people to learn to sort lists ahahaha, basically made Algovis, a python library for visualizing and analyzing algorithms. It has a very easy to use API and you can get started in just 6 lines of code :)
+I spent the summer after my third year of university making Algovis, a Python library for visualizing and analyzing algorithms. It has a very easy to use interface and you can get started in just 6 lines of code :)
 
 ```python
 from algovis import sorting
