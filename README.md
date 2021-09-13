@@ -5,7 +5,7 @@ You can find more about me [here](https://mackweb.in).
 
 *** 
 
-I spent the summer after my third year of university making Algovis, a Python library for visualizing and analyzing algorithms. It has an straightforward interface and you can get started in just 6 lines of code 🙂
+I spent the summer after my third year of university making Algovis, a Python library for visualizing and analyzing algorithms. It has a pretty straightforward interface and you can get started in just 6 lines of code 🙂
 
 ```python
 from algovis import sorting
