@@ -1,6 +1,6 @@
 Hi! I'm Mayank Arora *(hotshot07)* 
 
-I'm a Master Student in Computer Engineering student at Trinity College, Dublin.
+I'm a masters student(computer engineering) at Trinity College, Dublin.
 You can find more about me [here](https://mackweb.in).
 
 *** 
