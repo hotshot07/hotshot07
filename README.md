@@ -1,6 +1,6 @@
-Hi! I'm Mayank Arora *(hotshot07)* 
+Hi! I'm Mayank Arora
 
-I'm a masters student(computer engineering) at Trinity College, Dublin.
+I'm a SWE at [Hubspot](https://www.hubspot.com). I graduated from Trinity College, Dublin with an Integrated Masters in Computer Engineering.
 You can find more about me [here](https://mackweb.in).
 
 *** 
